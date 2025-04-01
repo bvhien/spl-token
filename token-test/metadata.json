@@ -1,6 +1,6 @@
 {
-  "name": "Example Token",
-  "symbol": "EXMPL",
+  "name": "bvhien test",
+  "symbol": "BVH",
   "description": "Example token from Solana Making a Token guide.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "image": "https://github.com/bvhien/spl-token/blob/main/3T721bpRc5FNY84W36vWffxoKs4FLXhBpSaqwUCRpump.jpg?raw=true"
 }
